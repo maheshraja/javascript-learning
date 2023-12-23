@@ -13,5 +13,5 @@ let isLoggedIn = true
 // symbol => uniqueness
 // object
 
-console.table([typeof null, typeof age, typeof undefined ])
+console.table([typeof null, typeof age, typeof undefined])
 // object, number, undefined

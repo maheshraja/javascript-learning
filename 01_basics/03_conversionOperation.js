@@ -1,7 +1,7 @@
 /* 
 Number CONVERSION
 */
-console.log("#############################")
+/* console.log("#############################")
 console.log("######  Number Conversion  ####")
 console.log("#############################")
 console.log()
@@ -67,12 +67,12 @@ console.log("Type of Score is", typeof score)
 scoreInNumber = Number(score)
 console.log("Type of Score after converson to Number is", typeof scoreInNumber)
 console.log("Value of Score after conversion to Number", scoreInNumber)
-console.log()
+console.log() */
 
 /* 
 Boolean CONVERSION
 */
-console.log("#############################")
+/* console.log("#############################")
 console.log("######  Boolean Conversion  ####")
 console.log("#############################")
 console.log()
@@ -115,4 +115,9 @@ console.log("#############################")
 console.log("isLoggedIn is Defined as \' isLoggedIn = undefined \' ")
 console.log("Type of isLoggedIn after converson to Boolean is", typeof booleanIsLoggedIn)
 console.log("Value of isLoggedIn after conversion to Boolean", booleanIsLoggedIn)
-console.log()
+console.log() */
+
+
+/* OPERATIONS */
+console.log("1a"+2);  //It is  String
+console.log(1+2+"3"); // It is String

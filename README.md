@@ -1,2 +1,2 @@
-# javascript-learning
-learning javascript
+# javascript-hindi
+learning javascript in Hindi
